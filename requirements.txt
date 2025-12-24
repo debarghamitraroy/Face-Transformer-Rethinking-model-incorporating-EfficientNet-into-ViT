@@ -1,0 +1,17 @@
+datetime>=6.0
+efficientnet-pytorch>=0.7.1
+einops>=0.8.1
+ipykernel>=7.1.0
+ipython>=9.8.0
+kagglehub>=0.3.13
+matplotlib>=3.10.8
+mxnet>=1.9.1
+numpy>=1.26.4
+pillow>=12.0.0
+scikit-learn>=1.8.0
+scipy>=1.16.3
+tensorboard>=2.20.0
+timm>=1.0.22
+torch>=2.9.1
+torchinfo>=1.8.0
+torchvision>=0.24.1
